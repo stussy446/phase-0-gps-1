@@ -1,6 +1,6 @@
 # phase-0-gps-1
 
-#commands used so far
+## commands used so far
 
   * cd devbootcamp/
   * 505  git clone https://github.com/stussy446/phase-0-gps-1.git
