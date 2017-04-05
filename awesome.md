@@ -1,4 +1,4 @@
-**GPS 1.1**
+**GPS 1.1 Steves' Version**
 
 *First modification*
 
